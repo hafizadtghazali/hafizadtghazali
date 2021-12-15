@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hafizadtghazali
 - 👀 I’m interested in cycling
 - 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on ...
 - 📫 hello@hafizadt.ghazali.tv
 
 <!---
